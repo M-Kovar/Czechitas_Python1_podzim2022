@@ -10,5 +10,10 @@
 ## Řešení domácích úkolů
 [ukoly-reseni](https://github.com/M-Kovar/Czechitas_Python1/tree/main/ukoly-reseni)
 
-## Hlavní repozitář ke kurzu
-https://github.com/andywaltlova/python-1-podzim-2022
+## Odkazy
+* [Hlavní repozitář ke kurzu: andywaltlova/python-1-podzim-2022](https://github.com/andywaltlova/python-1-podzim-2022)
+* [Python dokumentace](https://docs.python.org/3/)
+* [Online Python](https://www.online-python.com/)
+* [W3 schools (jednoduché interaktivní tutoriály nejen k Pythonu)](https://www.w3schools.com/python/)
+* [Krython (interaktivní výuka základů Pythonu v češtině)](https://krython.vnovak.cz/)
+* [Codewars (trénink programování skrze malé úkoly a výzvy)](https://www.codewars.com/)
