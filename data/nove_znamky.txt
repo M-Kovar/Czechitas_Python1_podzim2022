@@ -1,0 +1,25 @@
+Příjmení	Jméno	Test 1	Test 2	Test 3	Test 4	Test 5	Test 6
+Krčmarský	Stanislav	B	E	D	A	E	A
+Švára	Vladimír	D	A	E	B	B	D
+Barvíková	Erika	A	E	A	C	B	E
+Swárovský	David	B	C	A	E	A	E
+Viktorin	Miloslav	D	E	E	C	B	B
+Tichá	Jana	A	C	E	A	A	E
+Le Thi Kim	Iveta	E	B	D	C	B	A
+Grymová	Milena	B	C	A	C	B	B
+Tylšová	Zdeňka	E	A	A	A	B	D
+Németh	Pavel	A	D	A	C	E	E
+Fialová	Jaroslava	D	A	E	E	A	B
+Kargeradová	Agáta	C	B	A	A	B	A
+Bartyzalová	Jarmila	E	C	B	B	A	A
+Michalica	Jiří	E	C	D	A	E	B
+Lauerová	Tereza	A	E	A	C	A	D
+Veselá	Barbora	C	A	C	B	C	C
+Bartoš	Milan	A	B	A	B	A	A
+Sál	Vratislav	D	A	C	B	A	D
+Flieger	Přemysl	A	C	B	A	A	D
+Matlachová	Martina	A	A	C	D	D	C
+Abraham	Jan	B	B	A	E	A	A
+Koubská	Monika	B	B	D	C	D	C
+Špaček	Roman	A	A	D	A	D	A
+Horníková	Ludmila	B	B	E	A	D	A
