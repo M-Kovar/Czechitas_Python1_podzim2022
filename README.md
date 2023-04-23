@@ -7,9 +7,6 @@
 ## Řešení cvičení s poznámkami z hodin
 [cviceni-reseni](https://github.com/M-Kovar/Czechitas_Python1/tree/main/cviceni-reseni)
 
-## Řešení domácích úkolů
-[ukoly-reseni](https://github.com/M-Kovar/Czechitas_Python1/tree/main/ukoly-reseni)
-
 ## Odkazy
 * [Hlavní repozitář ke kurzu: andywaltlova/python-1-podzim-2022](https://github.com/andywaltlova/python-1-podzim-2022)
 ### Python a programování
